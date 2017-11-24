@@ -1,2 +1,2 @@
 # myRepo
-My boilerplate repo EDITED
+My boilerplate reposteria EDITED
